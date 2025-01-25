@@ -1,1 +1,2 @@
 # warehouse1
+Napíšte konzolovú aplikáciu v jazyku C, pomocou ktorej bude možné vyhľadávať tovar v databáze skladov podľa zadaných kritérií. Kritériá vyhľadávania budú reprezentované CMD prepínačmi a ich parametrami. Aplikácia vypíše výsledky hľadania v požadovanom formáte na štandardný výstup. Zmyslom zadania je precvičiť si oddelený preklad v rámci komplexnejšieho projektu a prácu so štruktúrami.
